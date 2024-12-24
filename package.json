@@ -1,0 +1,10 @@
+{
+      "name": "simple-calculator",
+      "version": "1.0.0",
+      "scripts": {
+        "dev": "vite"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
